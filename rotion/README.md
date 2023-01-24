@@ -4,3 +4,7 @@
 
 --- plugin do tailwind e do postcss
 -- acesse a pasta -> cd src/renderer/      <--- para rodar a interface
+
+npm i -D @rocketseat/eslint-config 
+
+npm run lint
