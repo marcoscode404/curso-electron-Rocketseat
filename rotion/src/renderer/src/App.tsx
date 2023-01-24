@@ -1,5 +1,5 @@
-export function App() {
-  return <h1>jheimes é viado!</h1>
-}
+import './styles/global.css';
 
-export default App
+export function App() {
+  return <h1 className="text-violet-400">Projeto Electron!</h1>
+}
