@@ -1,5 +1,5 @@
 import './styles/global.css'
 
 export function App() {
-  return <h1 className="text-violet-400">Projeto Electron!</h1>
+  return <div className="h-screen w-screen  text-rotion-100"></div>
 }
