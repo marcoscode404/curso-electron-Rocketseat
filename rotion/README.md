@@ -8,3 +8,6 @@
 npm i -D @rocketseat/eslint-config 
 
 npm run lint
+
+-- install bibliotecas
+npm i clsx phospor-react cmdk
