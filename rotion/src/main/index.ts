@@ -5,7 +5,7 @@ import { createFileRoute, createURLRoute } from 'electron-router-dom'
 
 function createWindow(): void {
   const mainWindow = new BrowserWindow({
-    width: 900,
+    width: 1120,
     height: 670,
     show: false,
     autoHideMenuBar: true,
