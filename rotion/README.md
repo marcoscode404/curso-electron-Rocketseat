@@ -11,3 +11,6 @@ npm run lint
 
 -- install bibliotecas
 npm i clsx phospor-react cmdk
+
+## router Dom
+npm i electron-router-dom react-router-dom
