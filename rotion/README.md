@@ -14,3 +14,6 @@ npm i clsx phospor-react cmdk
 
 ## router Dom
 npm i electron-router-dom react-router-dom
+
+
+// usando o tiptap para conteudos de texto - markdow
