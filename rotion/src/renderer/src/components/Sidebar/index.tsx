@@ -9,6 +9,9 @@ import { Search } from './Search'
 export function Sidebar() {
   const isMacOS = process.platform === 'darwin'
 
+  // utilizando as api
+  window.api.fetchDocuments('testeeee').then(console.log)
+
   return (
     <Collapsible.Content className="bg-rotion-800 flex-shrink-0 border-r border-rotion-600 h-screen relative group data-[state=open]:animate-slideIn data-[state=closed]:animate-slideOut overflow-hidden">
       <Collapsible.Trigger

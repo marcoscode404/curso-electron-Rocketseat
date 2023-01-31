@@ -1,8 +1,8 @@
-import { ElectronAPI } from '@electron-toolkit/preload'
+// import { ElectronAPI } from '@electron-toolkit/preload'
 
-declare global {
-  export interface Window {
-    electron: ElectronAPI
-    api: unknown
-  }
-}
+// declare global {
+//   export interface Window {
+//     electron: ElectronAPI
+//     api: unknown
+//   }
+// }
